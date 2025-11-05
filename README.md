@@ -7,7 +7,7 @@ Estudiante: Juan Camilo Salamanca Mosquera ID: 409457
 Implementación en Java de un Árbol de Búsqueda Binaria que incluye:
 
 Inserción y búsqueda de valores
-Eliminación de nodos según los tres casos definidos en el Listado 5-1 de la lectura (trees.pdf)
+Eliminación de nodos según los tres casos definidos 
 Recorridos: in-order, pre-order y post-order
 Esta estructura de datos permite operaciones eficientes en conjuntos dinámicos de enteros, respetando la propiedad fundamental del BST:
 
